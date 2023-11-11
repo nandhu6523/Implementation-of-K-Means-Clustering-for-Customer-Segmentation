@@ -79,25 +79,32 @@ plt.title("Customer segments")
 
 ## Output:
 Data.head():
-![Screenshot 2023-11-11 102006](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/ff74bce5-74a1-489e-addc-0cfe03701238)
+
+ ![Screenshot 2023-11-11 102006](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/ff74bce5-74a1-489e-addc-0cfe03701238)
 
 Data.info():
-![Screenshot 2023-11-11 102019](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/67606852-4519-44eb-a3e9-e272eda11977)
+
+ ![Screenshot 2023-11-11 102019](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/67606852-4519-44eb-a3e9-e272eda11977)
 
 Data.isnull() and sum():
-![Screenshot 2023-11-11 102031](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/b5389d0b-3d3b-47cb-8b00-76c531ab4ff6)
+
+ ![Screenshot 2023-11-11 102031](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/b5389d0b-3d3b-47cb-8b00-76c531ab4ff6)
 
 Elbow method graph:
+
  ![Screenshot 2023-11-11 102131](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/dadc5b56-17ea-468f-b3d5-6889102617dc)
 
 KMeans clusters:
-![Screenshot 2023-11-11 102116](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/f9a504eb-e3b6-4d89-80ce-6c92f8e0d327)
+
+  ![Screenshot 2023-11-11 102116](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/f9a504eb-e3b6-4d89-80ce-6c92f8e0d327)
 
 Y_prediction():
-![Screenshot 2023-11-11 102144](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/6cb6e388-51dd-452d-a138-bf11c1a80c0d)
+
+  ![Screenshot 2023-11-11 102144](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/6cb6e388-51dd-452d-a138-bf11c1a80c0d)
 
 Customers segments graph:
-![Screenshot 2023-11-11 102157](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/c19cff4c-a58c-4b61-bfb4-ecffed4e1b36)
+
+   ![Screenshot 2023-11-11 102157](https://github.com/nandhu6523/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123856724/c19cff4c-a58c-4b61-bfb4-ecffed4e1b36)
 
 
 ## Result:
